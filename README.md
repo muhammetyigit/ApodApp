@@ -7,6 +7,8 @@ To get started with the project, follow these steps:
   ```bash
   git clone https://github.com/muhammetyigit/ApodApp.git
   open ApodApp.xcodeproj
+
+## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/muhammetyigit/ApodApp/blob/main/ss.png?raw=true" alt="NASA APOD Screenshot" width="500"/>
 </p>
